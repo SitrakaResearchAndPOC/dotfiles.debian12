@@ -17,6 +17,17 @@ Just run :
 bash setup.bash
 ```
 If you don't like all of this stuff, you can explore some script or config in BIN, CONFIG.
+
+```
+fc-cache -r
+```
+```
+fc-cache -v
+```
+```
+pl10k configure
+```
+
 # AFTER INSTALLATION
 After installation and setting up zsh correctly, and after getting into zsh, run :
 ```bash
