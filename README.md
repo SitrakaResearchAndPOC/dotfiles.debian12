@@ -33,3 +33,5 @@ After installation and setting up zsh correctly, and after getting into zsh, run
 ```bash
 bash pl10k_patch.bash
 ```
+# SPLIT SCREEN
+[link ](https://askubuntu.com/questions/171160/how-can-i-split-the-standard-ubuntu-terminal)
