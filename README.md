@@ -24,6 +24,12 @@ fc-cache -r
 ```
 fc-cache -v
 ```
+# Active zsh
+```
+chsh -s $(which zsh)
+```
+
+# For reconfigure
 ```
 pl10k configure
 ```
