@@ -41,3 +41,37 @@ bash pl10k_patch.bash
 ```
 # SPLIT SCREEN
 [link ](https://askubuntu.com/questions/171160/how-can-i-split-the-standard-ubuntu-terminal)
+
+* Installing terminator (for gnome and KDE)
+```
+apt-get install terminator
+```
+* Installing splitvt
+```
+apt-get install splitvt
+```
+* Installing tilix
+```
+apt-get install tilix
+```
+* Installing tilix
+```
+apt-get install tilix
+```
+* Installing tmux
+```
+sudo apt install tmux
+```
+</br>
+tmux </br>
+Ctrl+b " Split current pane horizontally into two panes </br>
+Ctrl+b % Split current pane vertically into two panes </br>
+Ctrl+b o Go to the next pane </br>
+Ctrl+b ; Toggle between the current and previous pane </br>
+Ctrl+b x Close the current pane </br>
+Ctrl+b d keep your terminal running in background (you can close the terminal even if a socket is running. </br>
+Ctrl+b w list your panes (e.g. after reopening the terminal) </br>
+Ctrl+b [ Activate scroll. Use ESC to exit. </br>
+For more options you can see [here](https://linuxize.com/post/getting-started-with-tmux/) </br>
+
+
