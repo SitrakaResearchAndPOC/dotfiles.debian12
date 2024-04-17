@@ -74,4 +74,35 @@ Ctrl+b w list your panes (e.g. after reopening the terminal) </br>
 Ctrl+b [ Activate scroll. Use ESC to exit. </br>
 For more options you can see [here](https://linuxize.com/post/getting-started-with-tmux/) </br>
 
+# INSTALLING THEMATIC 
+[link1](https://www.geeksmint.com/best-ubuntu-themes/)
+[link2](https://www.omgubuntu.co.uk/2017/11/best-gtk-themes-for-ubuntu)
+* flat thematic
+```
+sudo add-apt-repository ppa:daniruiz/flat-remix
+```
+```
+sudo apt update
+```
+```
+sudo apt install flat-remix-gnome
+```
+* paper thematic
+```
+sudo add-apt-repository -u ppa:snwh/ppa
+```
+```
+sudo apt-get update
+```
+```
+sudo apt install paper-icon-theme
+```
+```
+if you want to install the icons and colors
+```
+sudo apt-get install paper-icon-theme
+```
+#sudo apt-get install paper-cursor-theme
 
+# ADDING SCREEN WALL PAPER
+[wallpaper](https://github.com/SitrakaResearchAndPOC/Fond)
