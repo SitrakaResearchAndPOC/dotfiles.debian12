@@ -97,12 +97,11 @@ sudo apt-get update
 ```
 sudo apt install paper-icon-theme
 ```
-```
 if you want to install the icons and colors
 ```
 sudo apt-get install paper-icon-theme
 ```
-#sudo apt-get install paper-cursor-theme
+sudo apt-get install paper-cursor-theme
 
 # ADDING SCREEN WALL PAPER
 [wallpaper](https://github.com/SitrakaResearchAndPOC/Fond)
